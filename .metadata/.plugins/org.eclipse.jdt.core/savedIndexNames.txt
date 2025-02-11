@@ -1,0 +1,18 @@
+INDEX VERSION 1.134+/home/kingbrandon/ASU-CSE360-SP25/.metadata/.plugins/org.eclipse.jdt.core
+3450745873.index
+62420901.index
+2848888250.index
+1865797976.index
+3345937098.index
+4009530147.index
+3006674066.index
+3209103173.index
+1991317979.index
+1681515783.index
+1913708788.index
+95006409.index
+4227115679.index
+3617689203.index
+1676355247.index
+879873958.index
+2125432094.index
